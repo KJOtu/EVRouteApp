@@ -1,6 +1,6 @@
 Installation Instructions
 1.
-   - clonine this repository:
+   - clone this repository:
      git clone https://github.com/your-KJOtu/EVRouteApp.git
 
 2. 
